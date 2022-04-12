@@ -53,6 +53,8 @@ DONE!!
 ## How does LeetHub work?     
 
 <h4> Your LeetHub portfolio could like <a href="https://github.com/tanyarajhans/LeetCode"> this </a>!  </h4>
+<a ><img src="https://github.com/adityagi02/LeetHub-Safari-Extension/blob/main/LeetHub/Shared%20(App)/Resources/Screenshot%202022-04-12%20at%2011.47.05%20AM.png" length = "300" width = "300" alt="Logo"/></a>
+
 <p>It's as simple as:</p>
 <ol>
   <li>After installation, launch LeetHub.</li>
