@@ -1,8 +1,8 @@
 # LeetHub-Safari-Extension
 <h1 align="center">
-  <a href="https://standardjs.com"><img src="assets/octocode.png" alt="LeetHub - Automatically sync your code to GitHub." width="400"></a>
+  
   <br>
-  <a href="https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi">LeetHub</a> - Automatically sync your code to GitHub.
+ 
   <br>
   
   <br>
@@ -70,7 +70,7 @@ DONE!!
 </ol>
 
 
-#### BONUS: Star [this repository](https://github.com/QasimWani/LeetHub) for further development of features. If you want a particular feature, simply [request](https://github.com/QasimWani/LeetHub/labels/feature) for it!
+#### BONUS: Star [this repository](https://github.com/adityagi02/LeetHub-Safari-Extension) for further development of features. If you want a particular feature, simply [request](https://github.com/adityagi02/LeetHub-Safari-Extension/issues) for it!
 
 
 # Let's see you ACE that coding interview!
