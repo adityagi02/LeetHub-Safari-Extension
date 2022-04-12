@@ -40,6 +40,24 @@ As of now, GitHub is developers' #1 portfolio. LeetHub just makes it much easier
 <p> <strong>2.</strong> There's no easy way of accessing your leetcode problems in one place! <br>
 Moreover, pushing code manually to GitHub from Leetcode is very time consuming. So, why not just automate it entirely without spending a SINGLE additional second on it? </p>
 
+## Installation
+1. Download all the files to a folder either by the "Download as ZIP" button or by cloning the repo.
+
+2. Launch Safari, navigate to Safari->Preferences->Extensions.
+3. If AutoJoomer is there, check it. 
+4. Else follow these steps:
+
+   a) Go to Safari->Preferences->Advanced
+   
+   b) Check "Show Develop menu in menu bar"
+   
+   c) Go back to safari menu->develop and check "Allow Unsigned Extensions.
+
+5. click on "AutoJoomer" logo in the panel left to link displayer.
+6. Set the required values, click "SAVE"
+
+DONE!!
+
 ## How does LeetHub work?     
 
 <h4> Your LeetHub portfolio could like <a href="https://github.com/tanyarajhans/LeetCode"> this </a>!  </h4>
@@ -54,12 +72,6 @@ Moreover, pushing code manually to GitHub from Leetcode is very time consuming. 
 
 #### BONUS: Star [this repository](https://github.com/QasimWani/LeetHub) for further development of features. If you want a particular feature, simply [request](https://github.com/QasimWani/LeetHub/labels/feature) for it!
 
-
-## Why did I build LeetHub?
-<p>
-The coding interview is arguably the most important part of your interview process, given you get the interview first. As someone who's received multiple internship offers from Fortune 100 companies, getting the interview in the first place is not easy!<br>
-And that's what LeetHub is supposed to do: indirectly improving your coding skills while improving your portfolio to ACE that interview at <em>insert_name_here</em>!
-</p>
 
 # Let's see you ACE that coding interview!
 
