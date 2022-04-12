@@ -53,7 +53,7 @@ DONE!!
 ## How does LeetHub work?     
 
 <h4> Your LeetHub portfolio could like <a href="https://github.com/tanyarajhans/LeetCode"> this </a>!  </h4>
-<a ><img src="https://github.com/adityagi02/LeetHub-Safari-Extension/blob/main/LeetHub/Shared%20(App)/Resources/Screenshot%202022-04-12%20at%2011.47.05%20AM.png" length = "300" width = "300" alt="Logo"/></a>
+<a ><img src="https://github.com/adityagi02/LeetHub-Safari-Extension/blob/main/LeetHub/Shared%20(App)/Resources/Screenshot%202022-04-12%20at%2011.47.05%20AM.png" length = "600" width = "800" alt="Logo"/></a>
 
 <p>It's as simple as:</p>
 <ol>
@@ -65,12 +65,6 @@ DONE!!
 
 
 #### BONUS: Star [this repository](https://github.com/adityagi02/LeetHub-Safari-Extension) for further development of features. If you want a particular feature, simply [request](https://github.com/adityagi02/LeetHub-Safari-Extension/issues) for it!
-
-
-# Let's see you ACE that coding interview!
-
-
-![leetcode view](assets/extension/leetcode.png)
 
 
 # How to set up LeetHub for local development?
