@@ -36,7 +36,7 @@ Moreover, pushing code manually to GitHub from Leetcode is very time consuming. 
 1. Download all the files to a folder either by the "Download as ZIP" button or by cloning the repo.
 
 2. Launch Safari, navigate to Safari->Preferences->Extensions.
-3. If AutoJoomer is there, check it. 
+3. If LeetHub is there, check it. 
 4. Else follow these steps:
 
    a) Go to Safari->Preferences->Advanced
@@ -45,7 +45,7 @@ Moreover, pushing code manually to GitHub from Leetcode is very time consuming. 
    
    c) Go back to safari menu->develop and check "Allow Unsigned Extensions.
 
-5. click on "AutoJoomer" logo in the panel left to link displayer.
+5. click on "LeetHub" logo in the panel left to link displayer.
 6. Set the required values, click "SAVE"
 
 DONE!!
