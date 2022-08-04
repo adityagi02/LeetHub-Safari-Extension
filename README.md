@@ -66,17 +66,4 @@ DONE!!
 
 #### BONUS: Star [this repository](https://github.com/adityagi02/LeetHub-Safari-Extension) for further development of features. If you want a particular feature, simply [request](https://github.com/adityagi02/LeetHub-Safari-Extension/issues) for it!
 
-
-# How to set up LeetHub for local development?
-
-<ol>
-  <li>Fork this repo and clone to your local machine</li>
-  <li>Go to <a href="chrome://extensions">chrome://extensions</a> </li>
-  <li>Enable <a href="https://www.mstoic.com/enable-developer-mode-in-chrome/">Developer mode</a> by toggling the switch on top right corner</li>
-  <li>Click 'Load unpacked'</li>
-  <li>Select the entire LeetHub folder</li>
-  <li>Run "npm run setup" to install the developer dependencies</li>
-</ol>
-
-
 #### And that should be it! Get Hacking...
